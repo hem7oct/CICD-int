@@ -1,0 +1,6 @@
+$ whoami
+ciandroid
+$ cd ~/ci; pwd
+/Users/ciandroid/ci
+$ git clone git@bitbucket.org/my_repo/project.git
+Cloning into 'project'...
